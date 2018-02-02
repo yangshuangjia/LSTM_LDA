@@ -12,7 +12,7 @@ DOCUMENT_PATH = './data/'
 # Do not rename calculated files!
 
 n_topics = 100
-n_cpu_cores = 16
+n_cpu_cores = 4
 
 dataset_specific_stoplist = " new bank year name time another three see general m. + s. p. part sq. . e. c. a. upon" \
                             " thus like however small large several deg. case second found known became found" \
